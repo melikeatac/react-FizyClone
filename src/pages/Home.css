@@ -1,0 +1,66 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../assets/img/bg.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 100vh;
+  background-position: top;
+  background-size: inherit;
+  padding: 0px;
+}
+.cs-home-bg {
+  position: relative;
+  border-radius: 10px;
+  background-color: #ffffff;
+  margin: auto;
+  width: 434px;
+  padding: 50px 70px 80px 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+  border: none;
+}
+.cancel {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: #000000;
+  font-size: 30px;
+  cursor: pointer;
+}
+.cs-home-img {
+  width: 90px;
+  height: 90px;
+}
+.cs-home-bg h2 {
+  font-size: 30px;
+  text-align: center;
+  color: #000;
+  font-family: "Nunito", sans-serif;
+  line-height: 38px;
+  margin-top: 8px;
+  font-weight: 700;
+}
+.cs-home-bg button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 270px;
+  margin: 0 auto;
+  background: #2962ff;
+  padding: 20px 45px;
+  border-radius: 32px;
+  cursor: pointer;
+  border: none;
+  margin-top: 20px;
+}
+.cs-home-bg button img {
+  width: 128px;
+  height: auto;
+}

@@ -10,7 +10,7 @@
   flex-direction: column;
 }
 .cs-main {
-  height: 65vh;
+  padding-bottom: 50px;
   background-color: #ffffff;
   border-radius: 20px;
   width: calc(40% - 30px);

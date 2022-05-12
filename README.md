@@ -1,2 +1,3 @@
-![Fizy Clone](./src/assets/img/bg2.png)
 [Siteye git](https://fizy-clone.vercel.app/)
+
+![Fizy Clone](./src/assets/img/bg3.png)
